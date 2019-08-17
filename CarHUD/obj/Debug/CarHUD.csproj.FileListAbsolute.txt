@@ -1,0 +1,8 @@
+C:\Users\Thomas\Desktop\Car HUD (plugin)\CarHUD\CarHUD\bin\Debug\CarHUD.dll
+C:\Users\Thomas\Desktop\Car HUD (plugin)\CarHUD\CarHUD\bin\Debug\CarHUD.pdb
+C:\Users\Thomas\Desktop\Car HUD (plugin)\CarHUD\CarHUD\bin\Debug\RAGENativeUI.dll
+C:\Users\Thomas\Desktop\Car HUD (plugin)\CarHUD\CarHUD\bin\Debug\RagePluginHookSDK.dll
+C:\Users\Thomas\Desktop\Car HUD (plugin)\CarHUD\CarHUD\bin\Debug\RagePluginHookSDK.xml
+C:\Users\Thomas\Desktop\Car HUD (plugin)\CarHUD\CarHUD\obj\Debug\CarHUD.dll
+C:\Users\Thomas\Desktop\Car HUD (plugin)\CarHUD\CarHUD\obj\Debug\CarHUD.pdb
+C:\Users\Thomas\Desktop\Car HUD (plugin)\CarHUD\CarHUD\obj\Debug\CarHUD.csprojResolveAssemblyReference.cache
